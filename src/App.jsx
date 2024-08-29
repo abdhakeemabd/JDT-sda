@@ -1,7 +1,7 @@
 
 import { BrowserRouter as Router, Route,Routes}from "react-router-dom";
 import './App.css';
-import './style/boostrap/bootstrap.css';
+import './assets/css/bootstrap.css'
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import './style/modules/aos.css';
