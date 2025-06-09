@@ -44,7 +44,7 @@ function ContactInfo () {
                             <div className="d-flex info_single align-items-center">
                                 <img alt='sms' src={SMS} className="cont-icons" />
                                 <span>
-                                 <a className='text-white' href="mailto:info@jdtislam.org">Email: info@jdtislam.org</a>
+                                 <a className='text-white' href="mailto:jdtislamspecialschool@gmail.com">Email:jdtislamspecialschool@gmail.com</a>
                                 </span>
                                 <br />
                             </div>
